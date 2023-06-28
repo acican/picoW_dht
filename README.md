@@ -11,7 +11,7 @@ Elementele de baza:
 - pc windows
 - retea wifi locala
   
-Exemplele de cod folosite sunt grupate in folderul "chat" si au fost obtinute prin cerere pe chatGPG, respectiv:
+Exemplele de cod folosite sunt grupate in folderul "chat" si au fost obtinute prin cerere pe chatGPT, respectiv:
 - cod micropyton pentru socket server
 - cod python pentru socket client
 - exemplu de fereastra grafica in python, folosind interfata implicita tkinter
