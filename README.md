@@ -18,3 +18,4 @@ Exemplele de cod folosite sunt grupate in folderul "chat" si au fost obtinute pr
 - conectare la reteaua wifi din micropython, furnizand ssid si password-ul ruter-ului.
   
 Senzorul de temperatura si umiditate comunica cu controlerul printr-o conexiune pe 1 fir (in exemplu, de cod, pinul 20) prin intermediul librariei micropython "dht".
+Codul socket-serverului este cel din fisierul "main.py", restrictia de nume este ceruta de micropython din motiv de pornire automata a interpretorului, pe acest fisier, la reconectarea alimentarii microcontrolerului.
