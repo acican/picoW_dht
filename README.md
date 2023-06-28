@@ -1,5 +1,6 @@
 # picoW socket
-![dht](https://github.com/acican/picoW_socket/assets/10486613/1b427783-e8af-4dc0-9b78-04c51cfaf875)
+
+![dht](https://github.com/acican/picoW_socket/assets/10486613/39ae6bbf-7195-4e1b-a0bf-ceeae085396c)
 
 Un exemplu de cod in micropython pentru citirea temperaturii si umiditatii de la un senzor dht22 si afisarea datelor citite intr-o fereastra grafica creata in python. Aplicatia se bazeaza pe o conexiune socket, client-server, in reteaua lan wifi locala, in care serverul este instalat pe un microcontroler picoW iar clientul intr-o aplicatie desktop scrisa in python. 
 
