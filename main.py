@@ -8,8 +8,8 @@ from machine import Pin
 
 sensor = dht.DHT22(Pin(20))
 
-ssid = 'DIGI_45cb30'
-password = '5932ba34'
+ssid = 'ssid'
+password = 'password'
 
 host = ''
  
